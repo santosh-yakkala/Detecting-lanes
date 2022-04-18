@@ -1,2 +1,2 @@
 # Detecting-lanes
-First download the source codes and make them as a sinle folder then run the python file.
+First download the source codes and make them as a single folder then run the python file.
